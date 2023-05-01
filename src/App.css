@@ -1,0 +1,49 @@
+.App,.welcome
+{
+  text-align: center;
+}
+.welcome{
+  margin-top: 30px;
+}
+.card{
+  width: 300px;
+  height: 400px;
+  margin: 30px 30px;
+}
+
+.sec
+{
+margin: 30px;
+}
+.nopage{
+  margin-top: 30px;
+}
+.base1,.home{
+  margin: 20px;
+}
+.info
+{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 50px 50px;
+  gap: 20px;
+}
+.add
+{
+  text-align: center;
+  margin-left: 30px;
+  
+}
+.view
+{
+margin: 50px;
+margin-left: 500px;
+
+}
+
+.tec{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: 50px 50px;
+  gap: 20px;
+}
